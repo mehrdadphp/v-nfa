@@ -1,0 +1,17 @@
+{
+  "name": "v-nfa",
+  "description": "Convert Number To Persian Charset",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "persian format",
+    "convert number to string",
+    "persian",
+    "vue js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrdadphp/v-nfa.git"
+  }
+}
