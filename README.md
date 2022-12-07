@@ -39,7 +39,7 @@
 ## use
 ````javascript
     <template>
-        <p>{{ $nfa.convert(1000000) }}</p> // بک میلیون تومان
+        <p>{{ $nfa.convert(1000000) }}</p> // یک میلیون تومان
     </template>
     
     // OR
@@ -47,7 +47,7 @@
     <script>
         export default {
             mounted() {
-                this.$nfa.convert(1000000); // بک میلیون تومان
+                this.$nfa.convert(1000000); // یک میلیون تومان
             }
         }
     </script>
